@@ -1,0 +1,2 @@
+# MusicMarkov
+MIDI motif generation
